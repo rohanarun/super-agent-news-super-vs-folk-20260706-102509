@@ -1,0 +1,53 @@
+{
+  "citations": [
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.mit.edu/2025/qa-what-agentic-ai-today-and-what-do-we-want-it-be"
+    },
+    {
+      "source": "SC Media",
+      "title": "Shell injection flaw found in 10 of 11 open-source AI agents",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa"
+    },
+    {
+      "source": "Anthropic Engineering",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    },
+    {
+      "source": "inkly.cloud",
+      "title": "Implement HowTo Schema: Step-by-Step Guide for AI Visibility",
+      "url": "https://inkly.cloud/implement-howto-schema-step-by-step-guide-for-ai-visibility/"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash('Super vs Folk|competitor_comparison|people comparing Super with Folk|2026-07-06T10:24:21.418805+00:00') -> hero_arch=comparison-lab, type=Cabinet Grotesk. AIDA Check: Attention(hero), Interest(proof & market context), Desire(media & motion), Action(CTA band). Font Selection: Cabinet Grotesk (Fontshare). Hero Math Verification: H1 clamp(44px\u201372px), max-width 1120px ensures 2\u20133 lines. Bento Density Verification: compare-grid uses grid-auto-flow:dense. GSAP Motion Selection: image-scale-fade-scroll + hover-physics (guarded). Label Sweep & Button Check: primary black pill CTA, secondary white CTA verified.",
+  "generated_at": "2026-07-06T10:25:16.132348+00:00",
+  "headline": "Super vs Folk \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Folk",
+    "competitor": "Folk",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Folk. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost. Include a long-form buyer guide with a decision matrix, migration checklist, how-to evaluation plan, and source-backed caveats. Previous comparison-page failures omitted visible buyer-guide and decision-matrix language even when the article was useful; that must never happen. The visible page must include the exact phrases Buyer guide and Decision matrix.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Folk AI agent",
+      "Folk AI assistant",
+      "Folk automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-folk",
+    "title": "Super vs Folk"
+  },
+  "summary": "A fair, source\u2011backed comparison for people evaluating Super vs Folk. Folk fits lightweight automation and niche workflows. Super is built for durable computer\u2011use agents that operate real interfaces and reuse a computer-use cache, making repeated workflows faster and cheaper over time."
+}
